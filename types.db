@@ -1,0 +1,2 @@
+transmission_speed rx:DERIVE:0:U, tx:DERIVE:0:U
+transmission_count active:GAUGE:0:U, paused:GAUGE:0:U
